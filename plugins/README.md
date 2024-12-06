@@ -1,0 +1,13 @@
+## 𝙳𝚘𝚗 𝚝 𝙲𝚘𝚙𝚢 & 𝙿𝚊𝚜𝚝𝚎 𝙼𝚢 𝙿𝚕𝚞𝚐𝚒𝚗𝚜.😒
+
+
+
+🐼 OWNER    - ROWDY BRO
+🐼 VERSION   - V.8.0
+🐼 TOTAL CMD - 150+
+🐼 MAIN CMD  - .MENU/.HELP/.LIST/.ALLMENU/.MAINMENU
+🐼 MENU TYPE - NUMBER REPLY
+🐼 PLATFORM  - HEROKU/PANEL/WORKFLOW/CODESAPCE/RENDER/KOYEB/SCALINGO AND ANY PLATFORM✅
+
+
+🧚 Powered By SUHAS-MD-V8. 🧚
